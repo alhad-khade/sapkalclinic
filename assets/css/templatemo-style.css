@@ -29,7 +29,7 @@ a:hover {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #7a7a7a;
+  color: #3a3a3a;
   letter-spacing: 0.2px;
 }
 
@@ -53,14 +53,14 @@ button {
   background-color: transparent;
   display: inline-block;
   padding: 8px 20px;
-  color: rgba(168, 146, 46, 1);
-  border: 2px solid rgba(168, 146, 46, 1);
+  color: rgb(99, 82, 7);
+  border: 2px solid rgb(99, 82, 7);
   transition: all 0.5s;
 }
 .primary-button a:hover,
 button:hover {
   color: rgb(255, 255, 255);
-  background-color: rgba(168, 146, 46, 1);
+  background-color: rgb(99, 82, 7);
 }
 
 section#search {
@@ -133,7 +133,7 @@ section {
 
 .main-banner .banner-content .banner-caption em {
   font-style: normal;
-  color: rgba(168, 146, 46, 1);
+  color: rgb(99, 82, 7);
 }
 
 .main-banner .banner-content .banner-caption span {
@@ -1385,5 +1385,5 @@ section.buttons .container-fluid {
 #aboutme-heading em {
   font-style: normal;
   font-size: large;
-  color: rgba(168, 146, 46, 1);
+  color: rgb(99, 82, 7);
 }
