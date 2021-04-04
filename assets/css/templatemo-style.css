@@ -45,6 +45,10 @@ img {
   overflow: hidden;
 }
 
+.testimonial-left-align {
+  text-align: end;
+}
+
 .primary-button a,
 button {
   font-size: 14px;
